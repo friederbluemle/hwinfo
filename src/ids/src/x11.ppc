@@ -1713,7 +1713,7 @@
 +driver.xfree		4|neomagic
 
  vendor.id		pci 0x10de
-+vendor.name		nVidia Corporation
++vendor.name		NVIDIA Corporation
 
  vendor.id		pci 0x10de
 &device.id		pci 0x0020

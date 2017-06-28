@@ -19,10 +19,10 @@ To give you an idea what kind of information it provides, here's the output it g
   SysFS ID: /devices/pci0000:00/0000:00:02.0/0000:02:00.0
   SysFS BusID: 0000:02:00.0
   Hardware Class: graphics card
-  Model: "nVidia GF119 [NVS 310]"
-  Vendor: pci 0x10de "nVidia Corporation"
+  Model: "NVIDIA GF119 [NVS 310]"
+  Vendor: pci 0x10de "NVIDIA Corporation"
   Device: pci 0x107d "GF119 [NVS 310]"
-  SubVendor: pci 0x10de "nVidia Corporation"
+  SubVendor: pci 0x10de "NVIDIA Corporation"
   SubDevice: pci 0x094e
   Revision: 0xa1
   Driver: "nvidia"

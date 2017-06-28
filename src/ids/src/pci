@@ -39399,7 +39399,7 @@
 
  vendor.id		pci 0x10cf
 &device.id		pci 0x1422
-+device.name		E8410 nVidia graphics adapter
++device.name		E8410 NVIDIA graphics adapter
 
  vendor.id		pci 0x10cf
 &device.id		pci 0x142d
@@ -40763,7 +40763,7 @@
 &device.id		pci 0x0060
 &subvendor.id		pci 0x147b
 &subdevice.id		pci 0x1c02
-+subdevice.name		NF7-S/NF7 (nVidia-nForce2) 2.X
++subdevice.name		NF7-S/NF7 (NVIDIA-nForce2) 2.X
 
  vendor.id		pci 0x10de
 &device.id		pci 0x0060
@@ -40779,7 +40779,7 @@
 &device.id		pci 0x0064
 &subvendor.id		pci 0x147b
 &subdevice.id		pci 0x1c02
-+subdevice.name		NF7-S/NF7 (nVidia-nForce2) 2.X
++subdevice.name		NF7-S/NF7 (NVIDIA-nForce2) 2.X
 
  vendor.id		pci 0x10de
 &device.id		pci 0x0064
